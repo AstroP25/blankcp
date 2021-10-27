@@ -1,8 +1,8 @@
-# blankcp
-Blank radio codeplugs
+#Blank Radio Codeplug Repository
 
-This project is aimed at providing a blank codeplug repository for two way radio systems. While this is really aimed at providing blank codeplugs for Motorola radios, it can really be used for any radio vendor. 
+This project is aimed at providing a blank codeplug repository for two way radio systems. While this is really aimed at providing blank codeplugs for Motorola radios, it can really be used for any radio vendor.
 
+#Naming Convention
 Codeplugs in this repository are structured as follows...
 <Model_Number>_<flashcode>.file
 
