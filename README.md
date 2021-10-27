@@ -17,3 +17,5 @@ The following list provides most recent codeplug versions used.
 Motorola APX ver: CPS R24.00.00
 Motorola Astro 25 ver: CPS R20.01.00
 Motorola TRBO ver: CPS 16.0
+
+This repository is freely distributed and will continue to be added to and grown.
